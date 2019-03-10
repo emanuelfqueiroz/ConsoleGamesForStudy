@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -937,3 +938,7 @@
   </body>
 </html>
 
+=======
+# HangmanGameForStudy
+A simple console game in C# for study purpose (Organized by Classes)
+>>>>>>> 3f1186f2150d0bc95359040e31396ac63858bf38
